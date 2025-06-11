@@ -1,4 +1,4 @@
-package com.bouali.todo;
+package com.alexandre.todo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
